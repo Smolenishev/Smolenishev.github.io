@@ -1,6 +1,8 @@
 # Smolenishev.github.io
 
 2022-07-31 created.
+2022-08-14 edit
 
-P.S. This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+P.S. [Markdown](https://smolenishev.github.io/).
+    [Markdown](https://otter-finance.ru/).
 
